@@ -6,6 +6,7 @@ in `lib/`, and example unit test in `test/`.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/HaeAhn00/dart-morning-coding/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/HaeAhn00/dart-morning-coding/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/HaeAhn00/dart-morning-coding/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -28,4 +29,12 @@ in `lib/`, and example unit test in `test/`.
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/HaeAhn00/dart-morning-coding/tree/master/1236-n-th-tribonacci-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HaeAhn00/dart-morning-coding/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HaeAhn00/dart-morning-coding/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
