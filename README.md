@@ -9,6 +9,7 @@ in `lib/`, and example unit test in `test/`.
 | [0014-longest-common-prefix](https://github.com/HaeAhn00/dart-morning-coding/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/HaeAhn00/dart-morning-coding/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/HaeAhn00/dart-morning-coding/tree/master/0283-move-zeroes) |
+| [1319-unique-number-of-occurrences](https://github.com/HaeAhn00/dart-morning-coding/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HaeAhn00/dart-morning-coding/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -41,5 +42,6 @@ in `lib/`, and example unit test in `test/`.
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/HaeAhn00/dart-morning-coding/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HaeAhn00/dart-morning-coding/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
